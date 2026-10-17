@@ -1,0 +1,9 @@
+
+Mistakes: 
+
+    getline() - reads an entire line, including spaces. (done)
+    stringstream - separates a line into tokens for parsing. (done)
+    map - associates a key with a value.
+    vector as a stack - tracks nested tags, allowing you to construct paths such as tag1.tag2. (done)
+    find() - checks whether a queried attribute exists.
+
